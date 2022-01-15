@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Rob </h1> 
+<h1> 👋 Hi, I’m Rob </h1> <br>
 <p>  I'm a freelance full stack dev who uses ruby, rails, js, SQL, HTML/CSS also Bootstrap, Heroku, AJAX, OOP + software structuring, MVC design pattern.
   <br>
 Currently learning React
